@@ -3,5 +3,5 @@
     "version": "0.0.8",
     "author": "Dave Randall <dpr47@uw.edu>",
     "license": "LGPL",
-    "description": "Copy of the Arduino NewPing Library for Particle"
+    "description": "Copy of the Arduino NewPing Library for Particle created by Tim Eckel"
 }
